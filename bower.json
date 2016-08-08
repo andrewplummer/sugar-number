@@ -1,6 +1,6 @@
 {
   "name": "sugar-number",
-  "description": "A Javascript utility library for working with native objects. Number module.",
+  "description": "Number module for the Sugar Javascript utility library.",
   "homepage": "https://sugarjs.com/",
   "license": "MIT",
   "authors": [
